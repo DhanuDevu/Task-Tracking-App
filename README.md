@@ -158,8 +158,5 @@ Inside backend folder:
 - `npm run dev`: Starts backend using nodemon.
 - `npm start`: Starts backend without nodemon.
 - 
-## Contact
- NAME H P SHASHANK
- NO   9481332759
- EMAIL  shashankshashe2003@gmail.com
+
 -
